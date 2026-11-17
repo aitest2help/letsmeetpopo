@@ -1,0 +1,436 @@
+{
+  "id": {
+    "brand": "Bersama Popo",
+    "eyebrow": "Pendamping lansia tinggal bersama · Hong Kong",
+    "heroTitle": ["Lis akan pulang.", "Popo butuh teman baru."],
+    "heroIntro": "Lis sudah enam tahun tinggal bersama dan merawat ibu kami, yang biasa dipanggil Popo. Sekarang Lis akan pulang untuk menikah. Inilah ceritanya tentang bekerja dan tinggal di sini, dengan kata-katanya sendiri.",
+    "heroCaption": "Ini Lis dari Indonesia, yang sudah enam tahun tinggal bersama dan merawat ibu kami, Popo. Di sini mereka merayakan ulang tahun Lis bersama.",
+    "afterQuote": "Cerita Lis adalah pengalamannya sendiri, bukan janji bahwa setiap hari akan mudah. Anda akan mengenal Popo dengan cara Anda sendiri. Sebelum Anda memutuskan, mari kenali Popo serta pekerjaan dan kehidupan sehari-hari di sini.",
+    "introRequirement": "Kami mencari seseorang yang sudah berpengalaman merawat orang dengan demensia dan bisa mengobrol sehari-hari dalam bahasa Kanton sejak mulai bekerja.",
+    "sectionTitle": "Kenali Popo dan keseharian di sini",
+    "tocHint": "Semua isi ada di bawah dan bisa dibaca dengan menggulir halaman. Tombol topik hanya jalan pintas ke bagian yang Anda pilih, bukan untuk membuka isi tambahan.",
+    "listen": "Dengarkan",
+    "pause": "Jeda",
+    "resume": "Lanjutkan",
+    "stop": "Berhenti",
+    "all": "Dengarkan dari awal",
+    "audioHint": "Bacaan memakai suara yang tersedia di ponsel atau perangkat Anda untuk bahasa halaman yang dipilih. Suara untuk bahasa tersebut belum tentu tersedia di perangkat Anda.",
+    "footer": "",
+    "draft": "",
+    "meetCta": "Minta agensi atau orang yang menunjukkan halaman ini kepada Anda untuk mengatur pertemuan.",
+    "meetNote": "Hubungi agensi atau orang yang membagikan halaman ini jika Anda ingin bertemu untuk membicarakan pekerjaan ini.",
+    "sections": [
+      {
+        "key": "story",
+        "label": "Kenali Popo",
+        "title": "Popo juga pernah merantau untuk bekerja.",
+        "subtitle": "Kenali orangnya dulu, bukan hanya kebutuhan perawatannya.",
+        "icon": "user",
+        "photo": "memory",
+        "photoCaption": "Popo (kanan) semasa muda, ketika bekerja sebagai pekerja rumah tangga di Hong Kong, bersama majikannya.",
+        "cards": [
+          {
+            "icon": "user",
+            "title": "Popo tahu rasanya bekerja keras.",
+            "text": "Popo dulu merantau untuk bekerja sebagai pekerja rumah tangga di Hong Kong, lalu menikah dan membesarkan keluarga. Keluarga Shanghai tempatnya bekerja sangat teliti, sehingga Popo terbiasa dengan standar pekerjaan rumah yang tinggi dan masih memperhatikan cara pekerjaan dilakukan. Ia senang bercerita tentang masa mudanya dan bangga melakukan hal-hal sendiri."
+          },
+          {
+            "icon": "heart",
+            "title": "Ingatannya berubah. Hidupnya tetap berarti.",
+            "text": "Popo hidup dengan demensia, penyakit yang memengaruhi ingatan, cara berpikir dan kegiatan sehari-hari, bukan sekadar lupa biasa karena usia. Kami mencari seseorang yang berpengalaman merawat orang dengan demensia, mau mengenal kesukaan Popo dan mendampinginya dengan sabar."
+          }
+        ],
+        "testimonials": []
+      },
+      {
+        "key": "together",
+        "label": "Makan dan menemani",
+        "title": "Makan bersama, ngobrol dan menemani Popo.",
+        "subtitle": "Menemani Popo adalah bagian dari pekerjaan, bukan menunggu sampai pekerjaan rumah selesai.",
+        "icon": "bowl",
+        "photo": "meal",
+        "photoCaption": "Kami makan dan bercanda bersama, di rumah atau di restoran.",
+        "cards": [
+          {
+            "icon": "chat",
+            "title": "Ada teman untuk ngobrol dan berkegiatan.",
+            "text": "Saat Popo di rumah, Anda makan bersama dan mengobrol dalam bahasa Kanton, jadi kemampuan percakapan sehari-hari diperlukan sejak awal. Mendengarkan lagu kesukaan, menonton acara TV, menggambar dan membuat kerajinan bersama adalah bagian dari kesehariannya. Begitu juga membaca judul berita di koran atau menu bersama."
+          },
+          {
+            "icon": "bowl",
+            "title": "Makanan yang Popo suka.",
+            "text": "Lis sering membuat bubur pagi kesukaan Popo: bubur nasi dengan ikan cincang, banyak jahe dan selada, serta merica putih yang banyak sekali; Popo juga suka agar-agar pandan dengan santan. Siapkan makanan segar, lembut, tidak pedas, dengan sedikit garam, minyak dan gula. Pelajari masakan Kanton yang biasa Popo makan dan buat sup Cina dua sampai tiga kali seminggu."
+          },
+          {
+            "icon": "bowl",
+            "title": "Memasak daging babi termasuk tugasnya.",
+            "text": "Membeli, menangani dan memasak daging babi untuk Popo termasuk dalam pekerjaan ini. Jika tugas ini tidak sesuai bagi Anda, beri tahu agensi sebelum pertemuan."
+          }
+        ],
+        "testimonials": []
+      },
+      {
+        "key": "care",
+        "label": "Perawatan sehari-hari",
+        "title": "Popo tetap mandiri. Anda tetap dekat.",
+        "subtitle": "Bantu sesuai kebutuhan agar Popo aman, sambil menghargai yang masih bisa dilakukannya sendiri.",
+        "icon": "hand",
+        "photo": "walk",
+        "photoCaption": "Tetap dekat, selangkah di sampingnya.",
+        "cards": [
+          {
+            "icon": "hand",
+            "title": "Tetap dekat, bantu sesuai kebutuhan.",
+            "text": "Popo masih berjalan sendiri, tetapi langkahnya kurang stabil, jadi tetap dekat, perhatikan keamanannya dan bantu bila perlu. Bantu Popo menggunakan toilet, melepas dan membersihkan gigi palsu, serta merawat kulit, kaki dan rambut; pastikan air minum tersedia. Saat Anda merawatnya, Popo tidak boleh ditinggal sendiri di rumah atau keluar sendirian."
+          },
+          {
+            "icon": "hand",
+            "title": "Popo mandi sendiri.",
+            "text": "Popo membersihkan tubuhnya sendiri; Anda tidak memandikannya. Tetap di dekat kamar mandi, cek keadaannya selama mandi dan pastikan sirkulasi udara baik."
+          },
+          {
+            "icon": "hand",
+            "title": "Obat sesuai resep, bukan keputusan sendiri.",
+            "text": "Bantu rutinitas obat Popo dan siapkan kotak obat sesuai jadwal yang diresepkan. Ikuti panduan tertulis yang diperiksa dokter atau apoteker serta pelatihan yang diberikan. Jangan mengubah dosis atau memutuskan pemberian obat tambahan sendiri."
+          },
+          {
+            "icon": "heart",
+            "title": "Catatan yang keluarga perlu tahu.",
+            "text": "Catat obat yang diberikan dan ukur serta catat tekanan darah pagi dan malam. Kirim catatan dan kabar tentang perubahan penting ke grup WhatsApp keluarga yang ditunjuk."
+          },
+          {
+            "icon": "home",
+            "title": "Rumah terurus juga bagian dari perawatan.",
+            "text": "Belanja bahan makanan, memasak, mencuci pakaian dan membersihkan dapur, kamar mandi, lantai serta perlengkapan rumah termasuk tugas Anda; ganti dan cuci seprai serta perlengkapan tempat tidur setiap minggu. Pantau persediaan kebutuhan rumah dan gunakan gas, air serta listrik dengan aman dan tidak boros. Rutinitas kebersihan diri dan rumah dijelaskan sebelum Anda menerima pekerjaan."
+          },
+          {
+            "icon": "hand",
+            "title": "Pelajari langkahnya bersama kami.",
+            "text": "Anda menemani kami saat kunjungan dokter atau pemeriksaan. Setelah memahami prosesnya dan disepakati bersama, Anda mungkin mengantar Popo untuk pemeriksaan sederhana. Jika kelak Popo membutuhkan lebih banyak bantuan, misalnya mengganti popok atau menyuapi, kita membicarakan tugas, pelatihan dan dukungannya sebelum mengubah tanggung jawab Anda."
+          }
+        ],
+        "testimonials": []
+      },
+      {
+        "key": "rhythm",
+        "label": "Rutinitas dan istirahat",
+        "title": "Ada waktu untuk Popo. Ada waktu untuk Anda.",
+        "subtitle": "Ada tanggung jawab pagi, sore, malam dan akhir pekan, dengan jeda siang hari kerja setelah pekerjaan rumah selesai.",
+        "icon": "sun",
+        "photo": "outdoors",
+        "photoCaption": "Jalan-jalan akhir pekan bersama Popo.",
+        "cards": [
+          {
+            "icon": "sun",
+            "title": "Pagi mengantar, sore menyambut.",
+            "text": "Bantu rutinitas pagi Popo dan berjalan bersamanya ke tempat menunggu mobil jemputan pusat lansia. Saat Popo pulang, jemput, siapkan makanan ringan, cek keadaannya dari dekat kamar mandi saat ia mandi, makan malam bersama dan bantu persiapan tidur."
+          },
+          {
+            "icon": "sun",
+            "title": "Jeda saat Popo di pusat kegiatan.",
+            "text": "Biasanya Popo mengikuti kegiatan di pusat kegiatan lansia pada siang hari Senin sampai Jumat dan makan siang di sana. Setelah belanja, mencuci dan pekerjaan rumah selesai, Anda bisa beristirahat, menelepon keluarga atau keluar menikmati waktu istirahat."
+          },
+          {
+            "icon": "bowl",
+            "title": "Akhir pekan punya ritme berbeda.",
+            "text": "Saat Anda merawat Popo pada akhir pekan atau hari libur, Anda makan, berkegiatan dan pergi ke mal atau taman bersamanya, sesuai kondisi Popo dan kebutuhan istirahatnya. Ia suka menikmati es krim setelah jalan-jalan."
+          },
+          {
+            "icon": "sun",
+            "title": "Tidur Anda juga penting.",
+            "text": "Jika kebetulan sudah terjaga pada malam hari dan melihat Popo perlu ke toilet, bantuan Anda mengantarnya dengan lembut kami hargai. Anda tidak diharapkan berjaga sepanjang malam, memasang alarm atau berulang kali bangun untuk mengeceknya. Jika Popo sering terbangun hingga mengganggu istirahat Anda atau membutuhkan lebih banyak bantuan, beri tahu kami agar dukungan dan pengaturan istirahat ditinjau bersama."
+          }
+        ],
+        "testimonials": []
+      },
+      {
+        "key": "home",
+        "label": "Tinggal di sini",
+        "title": "Kamar sendiri. Kehidupan pribadi tetap ada.",
+        "subtitle": "Merawat Popo bukan berarti melepaskan hubungan dengan orang terdekat, keyakinan atau minat Anda.",
+        "icon": "home",
+        "photo": null,
+        "photoCaption": null,
+        "cards": [
+          {
+            "icon": "home",
+            "title": "Tinggal bersama Popo.",
+            "text": "Anda tinggal bersama Popo dan punya kamar sendiri. Wi-Fi gratis, makanan dan minuman disediakan; keluarga menanggung biaya perjalanan untuk pekerjaan. Anggota keluarga lain tinggal dekat, bukan di apartemen ini."
+          },
+          {
+            "icon": "home",
+            "title": "Bicarakan privasi dengan jelas.",
+            "text": "Popo kadang masuk ke kamar Anda untuk mencari barang; kita perlu membicarakan cara menjaga privasi Anda bersama. Teman tidak boleh berkunjung ke apartemen."
+          },
+          {
+            "icon": "heart",
+            "title": "Keyakinan dan pilihan makanan dihormati.",
+            "text": "Anda boleh memasak makanan yang disukai, termasuk masakan Indonesia yang disesuaikan untuk Popo jika ingin menyajikannya. Kami menghormati agama dan kebutuhan ibadah Anda. Jika berpuasa, kita merencanakan waktu makan, ibadah dan istirahat bersama."
+          }
+        ],
+        "testimonials": ["beliefs"]
+      },
+      {
+        "key": "support",
+        "label": "Dukungan keluarga",
+        "title": "Ada hari yang sulit. Kita hadapi bersama.",
+        "subtitle": "Kesabaran Anda perlu disertai keterlibatan dan dukungan kami.",
+        "icon": "heart",
+        "photo": null,
+        "photoCaption": null,
+        "cards": [
+          {
+            "icon": "heart",
+            "title": "Kebingungan terasa nyata bagi Popo.",
+            "text": "Popo bisa mengulang pertanyaan, lupa sudah makan, mencari suami atau rumah lamanya, mencurigai ada barang hilang, menolak bantuan atau ingin keluar. Menjelang malam, saat hujan atau cuaca mendung, Popo bisa lebih gelisah, dan kadang ucapannya menyakitkan. Memahami demensia bukan berarti Anda harus memendam perasaan saat kesulitan."
+          },
+          {
+            "icon": "chat",
+            "title": "Beri tahu saat Anda membutuhkan kami.",
+            "text": "Kami mengajarkan rutinitas Popo, memberi panduan dan mengenalkan kontak keluarga utama serta cadangan; Lis membantu serah terima jika tersedia. Anda belajar kapan perlu bantuan keluarga dan kapan bantuan darurat diperlukan. Beri tahu jika khawatir, lelah atau merasa terluka agar kita mencari dukungan yang dibutuhkan bersama."
+          }
+        ],
+        "testimonials": ["mood", "sick"]
+      },
+      {
+        "key": "meet",
+        "label": "Sebelum memutuskan",
+        "title": "Sebelum Anda menerima, kami juga ingin mendengar.",
+        "subtitle": "Agensi atau orang yang membagikan halaman ini bisa mengatur pertemuan. Kami ingin mendengar pertanyaan Anda, bukan hanya pengalaman Anda.",
+        "icon": "chat",
+        "photo": null,
+        "photoCaption": null,
+        "cards": [
+          {
+            "icon": "sun",
+            "title": "Istirahat dan pilihan kerja dibicarakan dulu.",
+            "text": "Hari istirahat, hari libur, siapa yang mendampingi Popo saat Anda libur dan ketentuan kontrak dijelaskan serta dibicarakan sebelum Anda menerima pekerjaan. Bekerja pada hari Minggu dengan bayaran tambahan hanya jika Anda memilihnya dan disepakati bersama."
+          },
+          {
+            "icon": "chat",
+            "title": "Langkah berikutnya: saling mengenal.",
+            "text": "Jika ingin bertemu untuk membicarakan pekerjaan ini, hubungi agensi atau orang yang membagikan halaman ini agar mereka mengatur pertemuan. Bawa pertanyaan Anda dan ceritakan pengalaman perawatan, kemampuan bahasa Kanton serta hal-hal yang perlu dipelajari atau dibicarakan. Kami membantu Anda mempelajari ungkapan yang biasa dipakai bersama Popo dan ingin mendengar kebutuhan Anda agar bisa bekerja dan tinggal dengan nyaman."
+          }
+        ],
+        "testimonials": ["thanks"]
+      }
+    ]
+  },
+  "en": {
+    "brand": "With Popo",
+    "eyebrow": "Live-in elderly companion · Hong Kong",
+    "heroTitle": ["Lis is going home.", "Popo needs a new friend."],
+    "heroIntro": "Lis has lived with and cared for our mother, whom we call Popo, for six years. Now she is going home to marry. Here is her story of working and living here, in her own words.",
+    "heroCaption": "This is Lis from Indonesia, who has lived with and cared for our mother, Popo, for six years. Here they celebrate Lis’s birthday together.",
+    "afterQuote": "Lis’s story is her own experience, not a promise that every day is easy. You will get to know Popo in your own way. Before you decide, meet Popo and learn about the work and everyday life here.",
+    "introRequirement": "We are looking for someone with dementia-care experience who can hold everyday conversations in Cantonese from the start.",
+    "sectionTitle": "Meet Popo and everyday life here",
+    "tocHint": "All the content is visible below; scroll to read it. The topic buttons are optional shortcuts to a section, not buttons that open extra details.",
+    "listen": "Listen",
+    "pause": "Pause",
+    "resume": "Resume",
+    "stop": "Stop",
+    "all": "Listen from the beginning",
+    "audioHint": "Reading aloud uses a voice available on your phone or device for the selected page language. A voice for that language may not be available on your device.",
+    "footer": "",
+    "draft": "",
+    "meetCta": "Ask the agency or the person who showed you this page to arrange a meeting.",
+    "meetNote": "Contact the agency or the person sharing this page if you would like to meet to discuss this job.",
+    "sections": [
+      {
+        "key": "story",
+        "label": "Meet Popo",
+        "title": "She once left home for work, too.",
+        "subtitle": "Meet the person, not just her care needs.",
+        "icon": "user",
+        "photo": "memory",
+        "photoCaption": "Popo (right) as a young domestic helper in Hong Kong, with her employer.",
+        "cards": [
+          {
+            "icon": "user",
+            "title": "She knows hard work.",
+            "text": "Popo once left home to work as a domestic helper in Hong Kong, then married and raised a family. Her demanding Shanghainese employers taught her exacting household standards, and she still notices how things are done. She loves telling stories about her younger days and takes pride in doing things herself."
+          },
+          {
+            "icon": "heart",
+            "title": "Her memory has changed. Her life still matters.",
+            "text": "Popo has dementia, an illness affecting memory, thinking and everyday activities—not simply ordinary forgetfulness with age. We are looking for someone with dementia-care experience who is willing to learn her preferences and support her patiently."
+          }
+        ],
+        "testimonials": []
+      },
+      {
+        "key": "together",
+        "label": "Meals and company",
+        "title": "Shared meals. Familiar songs. Time together.",
+        "subtitle": "Companionship is part of the work, not something left until the chores are finished.",
+        "icon": "bowl",
+        "photo": "meal",
+        "photoCaption": "We dine and joke together, at home or at restaurants.",
+        "cards": [
+          {
+            "icon": "chat",
+            "title": "Someone to talk and spend time with.",
+            "text": "When Popo is home, you share meals and chat in Cantonese, so everyday conversation is needed from the start. Listening to favourite songs, watching TV, drawing and making crafts together are part of her everyday life. So is reading newspaper headlines or menus together."
+          },
+          {
+            "icon": "bowl",
+            "title": "Food she knows and loves.",
+            "text": "Lis often makes Popo’s morning favourite: rice congee with minced fish, plenty of ginger and Chinese lettuce, and lots of white pepper; Popo also loves pandan jelly with coconut milk. Prepare fresh, soft, non-spicy food with little salt, oil and sugar. Learn familiar Cantonese dishes and make Chinese soup two or three times a week."
+          },
+          {
+            "icon": "bowl",
+            "title": "Cooking pork is part of the role.",
+            "text": "Buying, handling and cooking pork for Popo is part of this job. Tell the agency before the meeting if this does not suit you."
+          }
+        ],
+        "testimonials": []
+      },
+      {
+        "key": "care",
+        "label": "Everyday care",
+        "title": "She does what she can. You stay close.",
+        "subtitle": "Help where needed to keep Popo safe, respecting what she can still do herself.",
+        "icon": "hand",
+        "photo": "walk",
+        "photoCaption": "Stay close, a step beside her.",
+        "cards": [
+          {
+            "icon": "hand",
+            "title": "Stay close, help where needed.",
+            "text": "Popo walks herself but is unsteady, so stay close, watch her safety and help when needed. Help with the toilet, denture removal and cleaning, and skin, foot and hair care; keep drinking water available. While in your care, she must not be left home alone or go out alone."
+          },
+          {
+            "icon": "hand",
+            "title": "She bathes herself.",
+            "text": "Popo washes herself; you do not wash her. Stay near the bathroom, check she is all right during bathing and ensure good ventilation."
+          },
+          {
+            "icon": "hand",
+            "title": "Prescribed medicines, not your own decisions.",
+            "text": "Help with Popo’s medication routine and prepare the pill box to the prescribed schedule. Follow doctor- or pharmacist-reviewed written guidance and the training provided. Do not change doses or decide on extra medication yourself."
+          },
+          {
+            "icon": "heart",
+            "title": "Records the family needs.",
+            "text": "Record medicines given and measure and record blood pressure morning and evening. Send the records and news of important changes to the designated family WhatsApp group."
+          },
+          {
+            "icon": "home",
+            "title": "A well-kept home is part of care.",
+            "text": "Shop for groceries, cook, do laundry and clean the kitchen, bathroom, floors and household items; change and wash sheets and bedding weekly. Monitor household supplies and use gas, water and electricity safely without waste. Personal and household hygiene routines are explained before acceptance."
+          },
+          {
+            "icon": "hand",
+            "title": "Learn the steps together.",
+            "text": "You accompany us to doctor’s appointments or examinations. Once familiar with the process and agreed together, you may take Popo to simple check-ups. If she later needs more help, such as nappy changes or feeding assistance, we discuss the tasks, training and support before changing your responsibilities."
+          }
+        ],
+        "testimonials": []
+      },
+      {
+        "key": "rhythm",
+        "label": "Routine and rest",
+        "title": "Time with Popo. Time for yourself.",
+        "subtitle": "Morning, afternoon, evening and weekend responsibilities, with weekday daytime breaks after household work is finished.",
+        "icon": "sun",
+        "photo": "outdoors",
+        "photoCaption": "A weekend outing with Popo.",
+        "cards": [
+          {
+            "icon": "sun",
+            "title": "A morning send-off. A welcome home.",
+            "text": "Help with Popo’s morning routine and walk her to the day-centre van’s meeting point. On her return, meet her, prepare a snack, check she is all right from near the bathroom during her bath, share dinner and help her get ready for bed."
+          },
+          {
+            "icon": "sun",
+            "title": "A break while she is at the centre.",
+            "text": "Popo usually attends her day centre during Monday–Friday daytime and has lunch there. After shopping, laundry and housework are finished, you can rest, call family or go out to enjoy your break."
+          },
+          {
+            "icon": "bowl",
+            "title": "Weekends have a different rhythm.",
+            "text": "When you are caring for Popo on weekends or holidays, you share meals, activities and mall or park outings, adjusted to her condition and rest needs. She enjoys ice cream after an outing."
+          },
+          {
+            "icon": "sun",
+            "title": "Your sleep matters, too.",
+            "text": "If naturally awake at night and you notice Popo needs the toilet, gently guiding her there is appreciated. You are not expected to stay awake all night, set alarms or repeatedly wake to check her. Tell us if frequent waking disrupts your rest or she needs more help, so we can review support and rest arrangements together."
+          }
+        ],
+        "testimonials": []
+      },
+      {
+        "key": "home",
+        "label": "Living here",
+        "title": "A room of your own. A life of your own.",
+        "subtitle": "Caring for Popo does not mean giving up your close connections, beliefs or interests.",
+        "icon": "home",
+        "photo": null,
+        "photoCaption": null,
+        "cards": [
+          {
+            "icon": "home",
+            "title": "Living with Popo.",
+            "text": "You live with Popo and have your own room. Free Wi-Fi, food and drinks are provided; the family pays for work travel. Other family members live nearby, not in this apartment."
+          },
+          {
+            "icon": "home",
+            "title": "Discuss privacy clearly.",
+            "text": "Popo sometimes enters your room looking for things; we need to discuss how to protect your privacy together. Friends may not visit the apartment."
+          },
+          {
+            "icon": "heart",
+            "title": "Beliefs and food choices are respected.",
+            "text": "You may cook food you enjoy, including Indonesian dishes adapted for Popo if you wish to serve them. We respect your religion and worship needs. If you fast, we plan meals, prayer and rest together."
+          }
+        ],
+        "testimonials": ["beliefs"]
+      },
+      {
+        "key": "support",
+        "label": "Family support",
+        "title": "Difficult days happen. We work them out together.",
+        "subtitle": "Your patience needs our involvement and support, too.",
+        "icon": "heart",
+        "photo": null,
+        "photoCaption": null,
+        "cards": [
+          {
+            "icon": "heart",
+            "title": "Confusion feels real to Popo.",
+            "text": "Popo may repeat questions, forget meals, seek her husband or former home, suspect missing items, refuse help or want to leave. Dusk, rain or gloomy weather can make her more unsettled, and sometimes her words are hurtful. Understanding dementia does not mean keeping your feelings to yourself when things are difficult."
+          },
+          {
+            "icon": "chat",
+            "title": "Let us know when you need us.",
+            "text": "We teach Popo’s routines, provide guidance and introduce main and backup family contacts; Lis helps with handover if available. You learn when family help is needed and when emergency help is required. Tell us if worried, tired or hurt, so we can work out the support needed together."
+          }
+        ],
+        "testimonials": ["mood", "sick"]
+      },
+      {
+        "key": "meet",
+        "label": "Before deciding",
+        "title": "Before you say yes, let us listen too.",
+        "subtitle": "The agency or the person sharing this page can arrange the meeting. We want to hear your questions, not just your experience.",
+        "icon": "chat",
+        "photo": null,
+        "photoCaption": null,
+        "cards": [
+          {
+            "icon": "sun",
+            "title": "Discuss rest and work choices first.",
+            "text": "Rest days, holidays, who looks after Popo during your time off and contract terms are explained and discussed before acceptance. Sunday work with extra pay is only by your choice and mutual agreement."
+          },
+          {
+            "icon": "chat",
+            "title": "Next: get to know each other.",
+            "text": "If you would like to meet to discuss this job, contact the agency or the person sharing this page so they can arrange the meeting. Bring your questions and share your care experience, Cantonese and anything you need to learn or discuss. We help you learn phrases familiar to Popo and want to hear what you need to work and live comfortably here."
+          }
+        ],
+        "testimonials": ["thanks"]
+      }
+    ]
+  }
+}
